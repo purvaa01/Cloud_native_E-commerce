@@ -56,7 +56,7 @@ docker run -d -p 8080:80 --name devops-first-container \
 purvaawankhede/cloud-native-ecommerce:latest
 ```
 ---
-##Access the application
+## Access the application
 Open your browser and visit:
 ```
 http://localhost:8090
