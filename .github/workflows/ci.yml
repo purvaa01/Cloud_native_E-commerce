@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: purvaawankhede/devops-first-app:latest
+          tags: purvaawankhede/cloud-native-ecommerce:latest
